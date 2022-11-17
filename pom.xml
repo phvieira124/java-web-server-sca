@@ -40,6 +40,12 @@
 			<plugin>
 			      <groupId>org.owasp</groupId>
 			      <artifactId>dependency-check-maven</artifactId>
+			      <configuration>
+      				<formats>
+				 <format>html</format>
+				 <format>json</format>
+			        </formats>
+			      </configuration>
 			      <executions>
 				  <execution>
 				      <goals>
