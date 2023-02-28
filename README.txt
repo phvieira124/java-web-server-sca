@@ -60,3 +60,5 @@ Go to the project root folder and run the following command:
 This will create a "target" folder containing the application jar file: java-WebServer-1.0-jar-with-dependencies.jar  
 
 https://teams.microsoft.com/l/meetup-join/19:meeting_NjgxMDk4YmYtYjllNC00YTdlLTlmZTAtYmYwYzg5NDgyNDJm@thread.v2/0?context=%7B%22Tid%22:%22ccd25372-eb59-436a-ad74-78a49d784cf3%22,%22Oid%22:%22757b2a92-53bf-42b1-adb6-2d915433abe2%22%7D
+
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzIyZTViNjUtYWQ4Mi00NmIwLWE1N2EtYjUyOWU3ZmM5NGQ1%40thread.v2/0?context=%7b%22Tid%22%3a%2276a2ae5a-9f00-4f6b-95ed-5d33d77c4d61%22%2c%22Oid%22%3a%22094bd1f5-4ba2-412f-8c23-981e82d3ba1a%22%7d
